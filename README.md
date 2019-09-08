@@ -1,24 +1,14 @@
-# README
+Name
+====
+画像アップロード機能
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Description
 
-Things you may want to cover:
+CarrierWaveという画像アップロード用のgemを使用して、画像アップロードを試す。
 
-* Ruby version
+## Environment
 
-* System dependencies
+- Rails 5.1.7
+- ruby 2.6.3p62
+- psql (PostgreSQL) 11.3
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
